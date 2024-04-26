@@ -5,7 +5,7 @@ SACC是AI化学组推出的全网最好用的🐛❤🤗❤🚀 Slurm+Huggingfac
 ## 安装
 
 ```Bash
-git clone https://github.com/trotsky1997/sacc
+git clone https://github.com/trotsky1997/sacc_beijingcloud.git
 cd sacc
 bash ./install.sh
 ```
